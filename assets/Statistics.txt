@@ -1,0 +1,717 @@
+--- Overall Distribution ---
+Training: 450 sequences (70.42%)
+Validation: 130 sequences (20.34%)
+Testing: 59 sequences (9.23%)
+
+--- General Statistics ---
+Total sequences: 639
+Total sign classes: 51
+Average sequences per sign: 12.53
+Max sequences for a sign: 19
+Min sequences for a sign: 10
+
+--- Sequence Distribution Per Sign ---
+LOOK: 18 sequences
+ADVISE/INFLUENCE: 12 sequences
+AFRAID: 12 sequences
+AGAIN: 11 sequences
+ANSWER: 11 sequences
+APPOINTMENT: 11 sequences
+ART/DESIGN: 16 sequences
+BIG: 12 sequences
+BROTHER: 14 sequences
+BUILD: 14 sequences
+CAMP: 11 sequences
+CANCEL/CRITICIZE: 12 sequences
+COLLECT: 14 sequences
+COME: 11 sequences
+COP: 11 sequences
+COPY: 12 sequences
+COUCH: 11 sequences
+CUTE: 15 sequences
+DEVIL/MISCHIEVOUS: 12 sequences
+DIRECT: 11 sequences
+DRESS/CLOTHES: 19 sequences
+DRINK: 11 sequences
+DRIP: 11 sequences
+EAT: 14 sequences
+EXCUSE: 16 sequences
+EXPERT: 11 sequences
+FACE: 11 sequences
+FED-UP/FULL: 11 sequences
+FIFTH: 17 sequences
+GET-TICKET: 10 sequences
+GOVERNMENT: 12 sequences
+GUITAR: 12 sequences
+HAPPY: 10 sequences
+INCLUDE/INVOLVE: 11 sequences
+INFORM: 16 sequences
+INJECT: 11 sequences
+LIVE: 11 sequences
+MACHINE: 13 sequences
+MAN: 13 sequences
+NEAR: 11 sequences
+NICE/CLEAN: 11 sequences
+PAST: 12 sequences
+REPLACE: 13 sequences
+SAME: 18 sequences
+SHELF/FLOOR: 12 sequences
+SHOW: 13 sequences
+SILLY: 14 sequences
+TOTAL: 11 sequences
+TOUGH: 11 sequences
+VACATION: 11 sequences
+WORK-OUT: 11 sequences
+
+
+
+--- Frame Count Statistics ---
+count    639.000000
+mean      36.217527
+std       15.038444
+min        5.000000
+25%       25.000000
+50%       34.000000
+75%       45.000000
+max       91.000000
+
+
+Sign: ADVISE/INFLUENCE, Frames: 53
+Sign: ADVISE/INFLUENCE, Frames: 42
+Sign: ADVISE/INFLUENCE, Frames: 40
+Sign: ADVISE/INFLUENCE, Frames: 36
+Sign: ADVISE/INFLUENCE, Frames: 34
+Sign: ADVISE/INFLUENCE, Frames: 33
+Sign: ADVISE/INFLUENCE, Frames: 26
+Sign: ADVISE/INFLUENCE, Frames: 26
+Sign: ADVISE/INFLUENCE, Frames: 24
+Sign: ADVISE/INFLUENCE, Frames: 24
+Sign: ADVISE/INFLUENCE, Frames: 17
+Sign: ADVISE/INFLUENCE, Frames: 14
+Sign: AFRAID, Frames: 41
+Sign: AFRAID, Frames: 41
+Sign: AFRAID, Frames: 37
+Sign: AFRAID, Frames: 34
+Sign: AFRAID, Frames: 29
+Sign: AFRAID, Frames: 26
+Sign: AFRAID, Frames: 26
+Sign: AFRAID, Frames: 26
+Sign: AFRAID, Frames: 25
+Sign: AFRAID, Frames: 23
+Sign: AFRAID, Frames: 21
+Sign: AFRAID, Frames: 14
+Sign: AGAIN, Frames: 77
+Sign: AGAIN, Frames: 71
+Sign: AGAIN, Frames: 61
+Sign: AGAIN, Frames: 36
+Sign: AGAIN, Frames: 36
+Sign: AGAIN, Frames: 32
+Sign: AGAIN, Frames: 31
+Sign: AGAIN, Frames: 28
+Sign: AGAIN, Frames: 21
+Sign: AGAIN, Frames: 18
+Sign: AGAIN, Frames: 14
+Sign: ANSWER, Frames: 40
+Sign: ANSWER, Frames: 25
+Sign: ANSWER, Frames: 25
+Sign: ANSWER, Frames: 23
+Sign: ANSWER, Frames: 19
+Sign: ANSWER, Frames: 19
+Sign: ANSWER, Frames: 18
+Sign: ANSWER, Frames: 17
+Sign: ANSWER, Frames: 15
+Sign: ANSWER, Frames: 14
+Sign: ANSWER, Frames: 13
+Sign: APPOINTMENT, Frames: 76
+Sign: APPOINTMENT, Frames: 65
+Sign: APPOINTMENT, Frames: 48
+Sign: APPOINTMENT, Frames: 42
+Sign: APPOINTMENT, Frames: 40
+Sign: APPOINTMENT, Frames: 32
+Sign: APPOINTMENT, Frames: 31
+Sign: APPOINTMENT, Frames: 29
+Sign: APPOINTMENT, Frames: 28
+Sign: APPOINTMENT, Frames: 28
+Sign: APPOINTMENT, Frames: 25
+Sign: ART/DESIGN, Frames: 58
+Sign: ART/DESIGN, Frames: 49
+Sign: ART/DESIGN, Frames: 47
+Sign: ART/DESIGN, Frames: 46
+Sign: ART/DESIGN, Frames: 46
+Sign: ART/DESIGN, Frames: 45
+Sign: ART/DESIGN, Frames: 42
+Sign: ART/DESIGN, Frames: 41
+Sign: ART/DESIGN, Frames: 37
+Sign: ART/DESIGN, Frames: 36
+Sign: ART/DESIGN, Frames: 35
+Sign: ART/DESIGN, Frames: 32
+Sign: ART/DESIGN, Frames: 31
+Sign: ART/DESIGN, Frames: 30
+Sign: ART/DESIGN, Frames: 27
+Sign: ART/DESIGN, Frames: 26
+Sign: BIG, Frames: 46
+Sign: BIG, Frames: 46
+Sign: BIG, Frames: 34
+Sign: BIG, Frames: 32
+Sign: BIG, Frames: 29
+Sign: BIG, Frames: 28
+Sign: BIG, Frames: 26
+Sign: BIG, Frames: 26
+Sign: BIG, Frames: 22
+Sign: BIG, Frames: 20
+Sign: BIG, Frames: 15
+Sign: BIG, Frames: 14
+Sign: BROTHER, Frames: 61
+Sign: BROTHER, Frames: 60
+Sign: BROTHER, Frames: 57
+Sign: BROTHER, Frames: 52
+Sign: BROTHER, Frames: 51
+Sign: BROTHER, Frames: 51
+Sign: BROTHER, Frames: 47
+Sign: BROTHER, Frames: 41
+Sign: BROTHER, Frames: 35
+Sign: BROTHER, Frames: 23
+Sign: BROTHER, Frames: 23
+Sign: BROTHER, Frames: 23
+Sign: BROTHER, Frames: 17
+Sign: BROTHER, Frames: 13
+Sign: BUILD, Frames: 55
+Sign: BUILD, Frames: 53
+Sign: BUILD, Frames: 52
+Sign: BUILD, Frames: 52
+Sign: BUILD, Frames: 52
+Sign: BUILD, Frames: 50
+Sign: BUILD, Frames: 47
+Sign: BUILD, Frames: 46
+Sign: BUILD, Frames: 43
+Sign: BUILD, Frames: 43
+Sign: BUILD, Frames: 42
+Sign: BUILD, Frames: 41
+Sign: BUILD, Frames: 40
+Sign: BUILD, Frames: 27
+Sign: CAMP, Frames: 65
+Sign: CAMP, Frames: 56
+Sign: CAMP, Frames: 46
+Sign: CAMP, Frames: 41
+Sign: CAMP, Frames: 36
+Sign: CAMP, Frames: 36
+Sign: CAMP, Frames: 35
+Sign: CAMP, Frames: 33
+Sign: CAMP, Frames: 31
+Sign: CAMP, Frames: 29
+Sign: CAMP, Frames: 21
+Sign: CANCEL/CRITICIZE, Frames: 71
+Sign: CANCEL/CRITICIZE, Frames: 56
+Sign: CANCEL/CRITICIZE, Frames: 54
+Sign: CANCEL/CRITICIZE, Frames: 50
+Sign: CANCEL/CRITICIZE, Frames: 46
+Sign: CANCEL/CRITICIZE, Frames: 43
+Sign: CANCEL/CRITICIZE, Frames: 38
+Sign: CANCEL/CRITICIZE, Frames: 36
+Sign: CANCEL/CRITICIZE, Frames: 36
+Sign: CANCEL/CRITICIZE, Frames: 33
+Sign: CANCEL/CRITICIZE, Frames: 31
+Sign: CANCEL/CRITICIZE, Frames: 30
+Sign: COLLECT, Frames: 66
+Sign: COLLECT, Frames: 66
+Sign: COLLECT, Frames: 63
+Sign: COLLECT, Frames: 56
+Sign: COLLECT, Frames: 56
+Sign: COLLECT, Frames: 55
+Sign: COLLECT, Frames: 48
+Sign: COLLECT, Frames: 48
+Sign: COLLECT, Frames: 44
+Sign: COLLECT, Frames: 42
+Sign: COLLECT, Frames: 41
+Sign: COLLECT, Frames: 31
+Sign: COLLECT, Frames: 27
+Sign: COLLECT, Frames: 21
+Sign: COME, Frames: 41
+Sign: COME, Frames: 38
+Sign: COME, Frames: 36
+Sign: COME, Frames: 31
+Sign: COME, Frames: 30
+Sign: COME, Frames: 25
+Sign: COME, Frames: 24
+Sign: COME, Frames: 23
+Sign: COME, Frames: 21
+Sign: COME, Frames: 19
+Sign: COME, Frames: 14
+Sign: COP, Frames: 79
+Sign: COP, Frames: 51
+Sign: COP, Frames: 51
+Sign: COP, Frames: 41
+Sign: COP, Frames: 36
+Sign: COP, Frames: 33
+Sign: COP, Frames: 32
+Sign: COP, Frames: 30
+Sign: COP, Frames: 27
+Sign: COP, Frames: 22
+Sign: COP, Frames: 21
+Sign: COPY, Frames: 65
+Sign: COPY, Frames: 45
+Sign: COPY, Frames: 41
+Sign: COPY, Frames: 40
+Sign: COPY, Frames: 37
+Sign: COPY, Frames: 36
+Sign: COPY, Frames: 34
+Sign: COPY, Frames: 33
+Sign: COPY, Frames: 32
+Sign: COPY, Frames: 27
+Sign: COPY, Frames: 23
+Sign: COPY, Frames: 13
+Sign: COUCH, Frames: 82
+Sign: COUCH, Frames: 56
+Sign: COUCH, Frames: 55
+Sign: COUCH, Frames: 51
+Sign: COUCH, Frames: 37
+Sign: COUCH, Frames: 34
+Sign: COUCH, Frames: 33
+Sign: COUCH, Frames: 32
+Sign: COUCH, Frames: 25
+Sign: COUCH, Frames: 22
+Sign: COUCH, Frames: 15
+Sign: CUTE, Frames: 56
+Sign: CUTE, Frames: 55
+Sign: CUTE, Frames: 49
+Sign: CUTE, Frames: 40
+Sign: CUTE, Frames: 34
+Sign: CUTE, Frames: 32
+Sign: CUTE, Frames: 30
+Sign: CUTE, Frames: 27
+Sign: CUTE, Frames: 26
+Sign: CUTE, Frames: 23
+Sign: CUTE, Frames: 23
+Sign: CUTE, Frames: 21
+Sign: CUTE, Frames: 21
+Sign: CUTE, Frames: 20
+Sign: CUTE, Frames: 11
+Sign: DEVIL/MISCHIEVOUS, Frames: 65
+Sign: DEVIL/MISCHIEVOUS, Frames: 63
+Sign: DEVIL/MISCHIEVOUS, Frames: 55
+Sign: DEVIL/MISCHIEVOUS, Frames: 48
+Sign: DEVIL/MISCHIEVOUS, Frames: 45
+Sign: DEVIL/MISCHIEVOUS, Frames: 43
+Sign: DEVIL/MISCHIEVOUS, Frames: 41
+Sign: DEVIL/MISCHIEVOUS, Frames: 37
+Sign: DEVIL/MISCHIEVOUS, Frames: 37
+Sign: DEVIL/MISCHIEVOUS, Frames: 36
+Sign: DEVIL/MISCHIEVOUS, Frames: 27
+Sign: DEVIL/MISCHIEVOUS, Frames: 24
+Sign: DIRECT, Frames: 81
+Sign: DIRECT, Frames: 66
+Sign: DIRECT, Frames: 56
+Sign: DIRECT, Frames: 49
+Sign: DIRECT, Frames: 46
+Sign: DIRECT, Frames: 45
+Sign: DIRECT, Frames: 43
+Sign: DIRECT, Frames: 42
+Sign: DIRECT, Frames: 41
+Sign: DIRECT, Frames: 41
+Sign: DIRECT, Frames: 31
+Sign: DRESS/CLOTHES, Frames: 57
+Sign: DRESS/CLOTHES, Frames: 46
+Sign: DRESS/CLOTHES, Frames: 46
+Sign: DRESS/CLOTHES, Frames: 44
+Sign: DRESS/CLOTHES, Frames: 43
+Sign: DRESS/CLOTHES, Frames: 42
+Sign: DRESS/CLOTHES, Frames: 40
+Sign: DRESS/CLOTHES, Frames: 36
+Sign: DRESS/CLOTHES, Frames: 35
+Sign: DRESS/CLOTHES, Frames: 33
+Sign: DRESS/CLOTHES, Frames: 31
+Sign: DRESS/CLOTHES, Frames: 30
+Sign: DRESS/CLOTHES, Frames: 29
+Sign: DRESS/CLOTHES, Frames: 27
+Sign: DRESS/CLOTHES, Frames: 27
+Sign: DRESS/CLOTHES, Frames: 26
+Sign: DRESS/CLOTHES, Frames: 26
+Sign: DRESS/CLOTHES, Frames: 23
+Sign: DRESS/CLOTHES, Frames: 16
+Sign: DRINK, Frames: 45
+Sign: DRINK, Frames: 42
+Sign: DRINK, Frames: 31
+Sign: DRINK, Frames: 28
+Sign: DRINK, Frames: 28
+Sign: DRINK, Frames: 28
+Sign: DRINK, Frames: 26
+Sign: DRINK, Frames: 23
+Sign: DRINK, Frames: 21
+Sign: DRINK, Frames: 20
+Sign: DRINK, Frames: 9
+Sign: DRIP, Frames: 76
+Sign: DRIP, Frames: 65
+Sign: DRIP, Frames: 60
+Sign: DRIP, Frames: 52
+Sign: DRIP, Frames: 48
+Sign: DRIP, Frames: 47
+Sign: DRIP, Frames: 42
+Sign: DRIP, Frames: 32
+Sign: DRIP, Frames: 31
+Sign: DRIP, Frames: 29
+Sign: DRIP, Frames: 18
+Sign: EAT, Frames: 61
+Sign: EAT, Frames: 60
+Sign: EAT, Frames: 53
+Sign: EAT, Frames: 51
+Sign: EAT, Frames: 50
+Sign: EAT, Frames: 46
+Sign: EAT, Frames: 46
+Sign: EAT, Frames: 41
+Sign: EAT, Frames: 39
+Sign: EAT, Frames: 35
+Sign: EAT, Frames: 34
+Sign: EAT, Frames: 31
+Sign: EAT, Frames: 27
+Sign: EAT, Frames: 20
+Sign: EXCUSE, Frames: 64
+Sign: EXCUSE, Frames: 51
+Sign: EXCUSE, Frames: 46
+Sign: EXCUSE, Frames: 41
+Sign: EXCUSE, Frames: 38
+Sign: EXCUSE, Frames: 36
+Sign: EXCUSE, Frames: 32
+Sign: EXCUSE, Frames: 31
+Sign: EXCUSE, Frames: 31
+Sign: EXCUSE, Frames: 28
+Sign: EXCUSE, Frames: 28
+Sign: EXCUSE, Frames: 27
+Sign: EXCUSE, Frames: 27
+Sign: EXCUSE, Frames: 23
+Sign: EXCUSE, Frames: 22
+Sign: EXCUSE, Frames: 21
+Sign: EXPERT, Frames: 36
+Sign: EXPERT, Frames: 29
+Sign: EXPERT, Frames: 26
+Sign: EXPERT, Frames: 22
+Sign: EXPERT, Frames: 21
+Sign: EXPERT, Frames: 21
+Sign: EXPERT, Frames: 20
+Sign: EXPERT, Frames: 17
+Sign: EXPERT, Frames: 16
+Sign: EXPERT, Frames: 11
+Sign: EXPERT, Frames: 6
+Sign: FACE, Frames: 61
+Sign: FACE, Frames: 61
+Sign: FACE, Frames: 61
+Sign: FACE, Frames: 52
+Sign: FACE, Frames: 51
+Sign: FACE, Frames: 45
+Sign: FACE, Frames: 43
+Sign: FACE, Frames: 42
+Sign: FACE, Frames: 41
+Sign: FACE, Frames: 31
+Sign: FACE, Frames: 30
+Sign: FED-UP/FULL, Frames: 65
+Sign: FED-UP/FULL, Frames: 51
+Sign: FED-UP/FULL, Frames: 46
+Sign: FED-UP/FULL, Frames: 41
+Sign: FED-UP/FULL, Frames: 36
+Sign: FED-UP/FULL, Frames: 26
+Sign: FED-UP/FULL, Frames: 24
+Sign: FED-UP/FULL, Frames: 23
+Sign: FED-UP/FULL, Frames: 21
+Sign: FED-UP/FULL, Frames: 21
+Sign: FED-UP/FULL, Frames: 16
+Sign: FIFTH, Frames: 66
+Sign: FIFTH, Frames: 41
+Sign: FIFTH, Frames: 36
+Sign: FIFTH, Frames: 31
+Sign: FIFTH, Frames: 31
+Sign: FIFTH, Frames: 23
+Sign: FIFTH, Frames: 23
+Sign: FIFTH, Frames: 22
+Sign: FIFTH, Frames: 21
+Sign: FIFTH, Frames: 17
+Sign: FIFTH, Frames: 17
+Sign: FIFTH, Frames: 17
+Sign: FIFTH, Frames: 16
+Sign: FIFTH, Frames: 15
+Sign: FIFTH, Frames: 12
+Sign: FIFTH, Frames: 12
+Sign: FIFTH, Frames: 11
+Sign: GET-TICKET, Frames: 56
+Sign: GET-TICKET, Frames: 43
+Sign: GET-TICKET, Frames: 34
+Sign: GET-TICKET, Frames: 31
+Sign: GET-TICKET, Frames: 28
+Sign: GET-TICKET, Frames: 27
+Sign: GET-TICKET, Frames: 26
+Sign: GET-TICKET, Frames: 25
+Sign: GET-TICKET, Frames: 24
+Sign: GET-TICKET, Frames: 21
+Sign: GOVERNMENT, Frames: 57
+Sign: GOVERNMENT, Frames: 55
+Sign: GOVERNMENT, Frames: 36
+Sign: GOVERNMENT, Frames: 34
+Sign: GOVERNMENT, Frames: 31
+Sign: GOVERNMENT, Frames: 31
+Sign: GOVERNMENT, Frames: 30
+Sign: GOVERNMENT, Frames: 29
+Sign: GOVERNMENT, Frames: 27
+Sign: GOVERNMENT, Frames: 22
+Sign: GOVERNMENT, Frames: 21
+Sign: GOVERNMENT, Frames: 17
+Sign: GUITAR, Frames: 82
+Sign: GUITAR, Frames: 74
+Sign: GUITAR, Frames: 74
+Sign: GUITAR, Frames: 66
+Sign: GUITAR, Frames: 51
+Sign: GUITAR, Frames: 48
+Sign: GUITAR, Frames: 45
+Sign: GUITAR, Frames: 41
+Sign: GUITAR, Frames: 40
+Sign: GUITAR, Frames: 40
+Sign: GUITAR, Frames: 36
+Sign: GUITAR, Frames: 33
+Sign: HAPPY, Frames: 61
+Sign: HAPPY, Frames: 58
+Sign: HAPPY, Frames: 56
+Sign: HAPPY, Frames: 55
+Sign: HAPPY, Frames: 53
+Sign: HAPPY, Frames: 51
+Sign: HAPPY, Frames: 44
+Sign: HAPPY, Frames: 37
+Sign: HAPPY, Frames: 31
+Sign: HAPPY, Frames: 30
+Sign: INCLUDE/INVOLVE, Frames: 52
+Sign: INCLUDE/INVOLVE, Frames: 46
+Sign: INCLUDE/INVOLVE, Frames: 42
+Sign: INCLUDE/INVOLVE, Frames: 34
+Sign: INCLUDE/INVOLVE, Frames: 31
+Sign: INCLUDE/INVOLVE, Frames: 31
+Sign: INCLUDE/INVOLVE, Frames: 30
+Sign: INCLUDE/INVOLVE, Frames: 29
+Sign: INCLUDE/INVOLVE, Frames: 26
+Sign: INCLUDE/INVOLVE, Frames: 19
+Sign: INCLUDE/INVOLVE, Frames: 15
+Sign: INFORM, Frames: 46
+Sign: INFORM, Frames: 42
+Sign: INFORM, Frames: 41
+Sign: INFORM, Frames: 36
+Sign: INFORM, Frames: 30
+Sign: INFORM, Frames: 30
+Sign: INFORM, Frames: 28
+Sign: INFORM, Frames: 28
+Sign: INFORM, Frames: 27
+Sign: INFORM, Frames: 26
+Sign: INFORM, Frames: 25
+Sign: INFORM, Frames: 24
+Sign: INFORM, Frames: 23
+Sign: INFORM, Frames: 22
+Sign: INFORM, Frames: 21
+Sign: INFORM, Frames: 19
+Sign: INJECT, Frames: 44
+Sign: INJECT, Frames: 41
+Sign: INJECT, Frames: 36
+Sign: INJECT, Frames: 35
+Sign: INJECT, Frames: 31
+Sign: INJECT, Frames: 30
+Sign: INJECT, Frames: 27
+Sign: INJECT, Frames: 27
+Sign: INJECT, Frames: 17
+Sign: INJECT, Frames: 15
+Sign: INJECT, Frames: 14
+Sign: LIVE, Frames: 45
+Sign: LIVE, Frames: 45
+Sign: LIVE, Frames: 44
+Sign: LIVE, Frames: 43
+Sign: LIVE, Frames: 37
+Sign: LIVE, Frames: 35
+Sign: LIVE, Frames: 33
+Sign: LIVE, Frames: 31
+Sign: LIVE, Frames: 28
+Sign: LIVE, Frames: 28
+Sign: LIVE, Frames: 23
+Sign: LOOK, Frames: 92
+Sign: LOOK, Frames: 86
+Sign: LOOK, Frames: 80
+Sign: LOOK, Frames: 72
+Sign: LOOK, Frames: 71
+Sign: LOOK, Frames: 68
+Sign: LOOK, Frames: 63
+Sign: LOOK, Frames: 61
+Sign: LOOK, Frames: 52
+Sign: LOOK, Frames: 51
+Sign: LOOK, Frames: 51
+Sign: LOOK, Frames: 47
+Sign: LOOK, Frames: 47
+Sign: LOOK, Frames: 46
+Sign: LOOK, Frames: 45
+Sign: LOOK, Frames: 42
+Sign: LOOK, Frames: 40
+Sign: LOOK, Frames: 38
+Sign: MACHINE, Frames: 78
+Sign: MACHINE, Frames: 77
+Sign: MACHINE, Frames: 57
+Sign: MACHINE, Frames: 56
+Sign: MACHINE, Frames: 55
+Sign: MACHINE, Frames: 53
+Sign: MACHINE, Frames: 52
+Sign: MACHINE, Frames: 47
+Sign: MACHINE, Frames: 47
+Sign: MACHINE, Frames: 41
+Sign: MACHINE, Frames: 24
+Sign: MACHINE, Frames: 20
+Sign: MACHINE, Frames: 18
+Sign: MAN, Frames: 91
+Sign: MAN, Frames: 57
+Sign: MAN, Frames: 56
+Sign: MAN, Frames: 56
+Sign: MAN, Frames: 45
+Sign: MAN, Frames: 40
+Sign: MAN, Frames: 40
+Sign: MAN, Frames: 37
+Sign: MAN, Frames: 36
+Sign: MAN, Frames: 36
+Sign: MAN, Frames: 26
+Sign: MAN, Frames: 26
+Sign: MAN, Frames: 20
+Sign: NEAR, Frames: 58
+Sign: NEAR, Frames: 51
+Sign: NEAR, Frames: 48
+Sign: NEAR, Frames: 40
+Sign: NEAR, Frames: 35
+Sign: NEAR, Frames: 35
+Sign: NEAR, Frames: 34
+Sign: NEAR, Frames: 34
+Sign: NEAR, Frames: 29
+Sign: NEAR, Frames: 27
+Sign: NEAR, Frames: 23
+Sign: NICE/CLEAN, Frames: 46
+Sign: NICE/CLEAN, Frames: 41
+Sign: NICE/CLEAN, Frames: 41
+Sign: NICE/CLEAN, Frames: 41
+Sign: NICE/CLEAN, Frames: 38
+Sign: NICE/CLEAN, Frames: 36
+Sign: NICE/CLEAN, Frames: 33
+Sign: NICE/CLEAN, Frames: 31
+Sign: NICE/CLEAN, Frames: 31
+Sign: NICE/CLEAN, Frames: 26
+Sign: NICE/CLEAN, Frames: 23
+Sign: PAST, Frames: 47
+Sign: PAST, Frames: 46
+Sign: PAST, Frames: 33
+Sign: PAST, Frames: 31
+Sign: PAST, Frames: 30
+Sign: PAST, Frames: 26
+Sign: PAST, Frames: 22
+Sign: PAST, Frames: 22
+Sign: PAST, Frames: 21
+Sign: PAST, Frames: 20
+Sign: PAST, Frames: 19
+Sign: PAST, Frames: 18
+Sign: REPLACE, Frames: 87
+Sign: REPLACE, Frames: 44
+Sign: REPLACE, Frames: 41
+Sign: REPLACE, Frames: 41
+Sign: REPLACE, Frames: 38
+Sign: REPLACE, Frames: 37
+Sign: REPLACE, Frames: 36
+Sign: REPLACE, Frames: 34
+Sign: REPLACE, Frames: 31
+Sign: REPLACE, Frames: 29
+Sign: REPLACE, Frames: 26
+Sign: REPLACE, Frames: 24
+Sign: REPLACE, Frames: 17
+Sign: SAME, Frames: 73
+Sign: SAME, Frames: 69
+Sign: SAME, Frames: 65
+Sign: SAME, Frames: 65
+Sign: SAME, Frames: 61
+Sign: SAME, Frames: 61
+Sign: SAME, Frames: 58
+Sign: SAME, Frames: 57
+Sign: SAME, Frames: 50
+Sign: SAME, Frames: 49
+Sign: SAME, Frames: 47
+Sign: SAME, Frames: 46
+Sign: SAME, Frames: 43
+Sign: SAME, Frames: 42
+Sign: SAME, Frames: 42
+Sign: SAME, Frames: 37
+Sign: SAME, Frames: 29
+Sign: SAME, Frames: 26
+Sign: SHELF/FLOOR, Frames: 44
+Sign: SHELF/FLOOR, Frames: 36
+Sign: SHELF/FLOOR, Frames: 36
+Sign: SHELF/FLOOR, Frames: 32
+Sign: SHELF/FLOOR, Frames: 31
+Sign: SHELF/FLOOR, Frames: 28
+Sign: SHELF/FLOOR, Frames: 23
+Sign: SHELF/FLOOR, Frames: 23
+Sign: SHELF/FLOOR, Frames: 21
+Sign: SHELF/FLOOR, Frames: 17
+Sign: SHELF/FLOOR, Frames: 16
+Sign: SHELF/FLOOR, Frames: 16
+Sign: SHOW, Frames: 51
+Sign: SHOW, Frames: 46
+Sign: SHOW, Frames: 41
+Sign: SHOW, Frames: 40
+Sign: SHOW, Frames: 39
+Sign: SHOW, Frames: 37
+Sign: SHOW, Frames: 36
+Sign: SHOW, Frames: 30
+Sign: SHOW, Frames: 26
+Sign: SHOW, Frames: 24
+Sign: SHOW, Frames: 21
+Sign: SHOW, Frames: 21
+Sign: SHOW, Frames: 19
+Sign: SILLY, Frames: 61
+Sign: SILLY, Frames: 48
+Sign: SILLY, Frames: 42
+Sign: SILLY, Frames: 39
+Sign: SILLY, Frames: 27
+Sign: SILLY, Frames: 27
+Sign: SILLY, Frames: 26
+Sign: SILLY, Frames: 26
+Sign: SILLY, Frames: 26
+Sign: SILLY, Frames: 24
+Sign: SILLY, Frames: 22
+Sign: SILLY, Frames: 21
+Sign: SILLY, Frames: 16
+Sign: SILLY, Frames: 15
+Sign: TOTAL, Frames: 46
+Sign: TOTAL, Frames: 45
+Sign: TOTAL, Frames: 41
+Sign: TOTAL, Frames: 31
+Sign: TOTAL, Frames: 31
+Sign: TOTAL, Frames: 31
+Sign: TOTAL, Frames: 30
+Sign: TOTAL, Frames: 27
+Sign: TOTAL, Frames: 27
+Sign: TOTAL, Frames: 25
+Sign: TOTAL, Frames: 24
+Sign: TOUGH, Frames: 55
+Sign: TOUGH, Frames: 46
+Sign: TOUGH, Frames: 44
+Sign: TOUGH, Frames: 43
+Sign: TOUGH, Frames: 39
+Sign: TOUGH, Frames: 34
+Sign: TOUGH, Frames: 30
+Sign: TOUGH, Frames: 28
+Sign: TOUGH, Frames: 27
+Sign: TOUGH, Frames: 26
+Sign: TOUGH, Frames: 23
+Sign: VACATION, Frames: 55
+Sign: VACATION, Frames: 45
+Sign: VACATION, Frames: 42
+Sign: VACATION, Frames: 39
+Sign: VACATION, Frames: 36
+Sign: VACATION, Frames: 34
+Sign: VACATION, Frames: 31
+Sign: VACATION, Frames: 30
+Sign: VACATION, Frames: 20
+Sign: VACATION, Frames: 19
+Sign: VACATION, Frames: 17
+Sign: WORK-OUT, Frames: 72
+Sign: WORK-OUT, Frames: 61
+Sign: WORK-OUT, Frames: 52
+Sign: WORK-OUT, Frames: 51
+Sign: WORK-OUT, Frames: 50
+Sign: WORK-OUT, Frames: 49
+Sign: WORK-OUT, Frames: 48
+Sign: WORK-OUT, Frames: 46
+Sign: WORK-OUT, Frames: 36
+Sign: WORK-OUT, Frames: 33
+Sign: WORK-OUT, Frames: 28
